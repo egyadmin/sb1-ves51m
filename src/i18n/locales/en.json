@@ -1,0 +1,106 @@
+{
+  "system": "Shibh Al Jazira Contracting Company Clinic Management System",
+  "company": "Shibh Al Jazira Contracting Company",
+  "nav": {
+    "home": "Home",
+    "patients": "Patients",
+    "records": "Medical Records",
+    "locations": "Locations",
+    "safety": "Safety",
+    "emergency": "Emergency Response",
+    "pharmacy": "Medical Inventory",
+    "laboratory": "Laboratory",
+    "radiology": "Radiology",
+    "insurance": "Insurance",
+    "compliance": "Clinic Compliance",
+    "requests": "Clinic Requests",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Overview of clinic performance and key indicators",
+    "downloadReport": "Download Report",
+    "stats": {
+      "totalExams": "Total Examinations",
+      "activePatients": "Active Patients",
+      "emergencyCases": "Emergency Cases",
+      "activeLocations": "Active Locations"
+    },
+    "charts": {
+      "clinicPerformance": "Clinic Performance",
+      "examDistribution": "Examination Distribution",
+      "examinations": "Examinations",
+      "incidents": "Incidents"
+    },
+    "activities": {
+      "title": "Recent Activities",
+      "type": "Type",
+      "patient": "Patient",
+      "location": "Location",
+      "date": "Date",
+      "status": "Status"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "lowInventory": "Low medical supplies in Riyadh clinic",
+      "completedExams": "Weekly periodic examinations completed",
+      "upcomingInspection": "MOH inspection scheduled for next week"
+    }
+  },
+  "examTypes": {
+    "periodic": "Periodic",
+    "followUp": "Follow-up",
+    "emergency": "Emergency",
+    "consultation": "Consultation"
+  },
+  "status": {
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "pending": "Pending",
+    "closed": "Closed"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June"
+  },
+  "timeAgo": {
+    "minutes": "{{count}} minutes ago",
+    "hours": "{{count}} hours ago",
+    "days": "{{count}} days ago"
+  },
+  "locations": {
+    "riyadhProject": "Riyadh Project",
+    "jeddahProject": "Jeddah Project",
+    "neomProject": "NEOM Project"
+  },
+  "services": {
+    "firstAid": "First Aid",
+    "medicalCare": "Medical Care",
+    "laboratory": "Laboratory",
+    "pharmacy": "Pharmacy",
+    "emergency": "Emergency",
+    "records": "Medical Records"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "search": "Search",
+    "add": "Add",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "pending": "Pending",
+      "completed": "Completed",
+      "inProgress": "In Progress"
+    }
+  }
+}

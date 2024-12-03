@@ -1,0 +1,81 @@
+{
+  "company": "شبہ الجزیرہ کنٹریکٹنگ کمپنی",
+  "system": "کلینک مینجمنٹ سسٹم",
+  "nav": {
+    "home": "ہوم",
+    "patients": "مریض",
+    "records": "طبی ریکارڈز",
+    "locations": "مقامات",
+    "safety": "حفاظت",
+    "emergency": "ایمرجنسی رسپانس",
+    "pharmacy": "میڈیکل انوینٹری",
+    "laboratory": "لیبارٹری",
+    "radiology": "ریڈیالوجی",
+    "insurance": "طبی انشورنس",
+    "compliance": "کلینک کی مطابقت",
+    "requests": "کلینک کی درخواستیں",
+    "reports": "رپورٹس",
+    "settings": "ترتیبات"
+  },
+  "dashboard": {
+    "title": "ڈیش بورڈ",
+    "subtitle": "کلینک کی کارکردگی اور اہم اشاریوں کا جائزہ",
+    "downloadReport": "رپورٹ ڈاؤن لوڈ کریں",
+    "stats": {
+      "totalExams": "کل معائنے",
+      "activePatients": "فعال مریض",
+      "emergencyCases": "ایمرجنسی کیسز",
+      "activeLocations": "فعال مقامات"
+    },
+    "charts": {
+      "clinicPerformance": "کلینک کی کارکردگی",
+      "examDistribution": "معائنوں کی تقسیم",
+      "examinations": "معائنے",
+      "incidents": "واقعات"
+    },
+    "activities": {
+      "title": "حالیہ سرگرمیاں",
+      "type": "قسم",
+      "patient": "مریض",
+      "location": "مقام",
+      "date": "تاریخ",
+      "status": "حالت"
+    },
+    "notifications": {
+      "title": "اطلاعات",
+      "lowInventory": "ریاض کلینک میں طبی سامان کم ہے",
+      "completedExams": "ہفتہ وار دوری معائنے مکمل",
+      "upcomingInspection": "اگلے ہفتے وزارت صحت کی معائنہ شیڈول"
+    }
+  },
+  "safety": {
+    "title": "پیشہ ورانہ حفاظت",
+    "subtitle": "وزارت نقل و حمل، بلدیات اور نیوم پروجیکٹ کے تقاضوں کے مطابق پیشہ ورانہ حفاظت کے معاملات کی نگرانی اور انتظام",
+    "add": "حفاظتی معاملہ شامل کریں",
+    "date": "تاریخ",
+    "location": "مقام",
+    "type": "قسم",
+    "severity": "شدت",
+    "status": "حالت",
+    "description": "تفصیل",
+    "activeIncidents": "فعال واقعات",
+    "inProgress": "جاری",
+    "closed": "بند"
+  },
+  "common": {
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "view": "دیکھیں",
+    "download": "ڈاؤن لوڈ کریں",
+    "search": "تلاش کریں",
+    "status": {
+      "active": "فعال",
+      "inactive": "غیر فعال",
+      "pending": "زیر التواء",
+      "completed": "مکمل",
+      "inProgress": "جاری"
+    }
+  }
+}

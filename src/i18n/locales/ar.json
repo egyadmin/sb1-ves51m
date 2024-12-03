@@ -1,0 +1,117 @@
+{
+  "system": "نظام إدارة عيادات شركة شبه الجزيرة للمقاولات",
+  "company": "شركة شبه الجزيرة للمقاولات",
+  "nav": {
+    "home": "الرئيسية",
+    "patients": "المرضى",
+    "records": "السجلات الطبية",
+    "locations": "المواقع",
+    "safety": "السلامة المهنية",
+    "emergency": "الاستجابة للطوارئ",
+    "pharmacy": "المخزون الطبي",
+    "laboratory": "المختبر",
+    "radiology": "الأشعة",
+    "insurance": "التأمين الطبي",
+    "compliance": "توافق العيادات",
+    "requests": "طلبات العيادات",
+    "reports": "التقارير",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "subtitle": "نظرة عامة على أداء العيادات والمؤشرات الرئيسية",
+    "downloadReport": "تحميل التقرير",
+    "stats": {
+      "totalExams": "إجمالي الفحوصات",
+      "activePatients": "المرضى النشطين",
+      "emergencyCases": "حالات طارئة",
+      "activeLocations": "المواقع النشطة"
+    },
+    "charts": {
+      "clinicPerformance": "أداء العيادات",
+      "examDistribution": "توزيع الفحوصات",
+      "examinations": "الفحوصات",
+      "incidents": "الحوادث"
+    },
+    "activities": {
+      "title": "النشاطات الأخيرة",
+      "type": "النوع",
+      "patient": "المريض",
+      "location": "الموقع",
+      "date": "التاريخ",
+      "status": "الحالة"
+    },
+    "notifications": {
+      "title": "الإشعارات",
+      "lowInventory": "مخزون الأدوية منخفض في عيادة مشروع الرياض",
+      "completedExams": "تم اكتمال الفحوصات الدورية لهذا الأسبوع",
+      "upcomingInspection": "موعد تفتيش وزارة الصحة الأسبوع القادم"
+    }
+  },
+  "examTypes": {
+    "periodic": "فحص دوري",
+    "followUp": "متابعة",
+    "emergency": "حالة طارئة",
+    "consultation": "استشارة"
+  },
+  "locations": {
+    "title": "المواقع",
+    "add": "إضافة موقع",
+    "riyadhProject": "مشروع الرياض",
+    "jeddahProject": "مشروع جدة",
+    "neomProject": "مشروع نيوم"
+  },
+  "records": {
+    "title": "السجلات الطبية",
+    "add": "إضافة سجل طبي",
+    "type": "نوع السجل",
+    "date": "التاريخ",
+    "patientId": "رقم المريض",
+    "diagnosis": "التشخيص",
+    "treatment": "العلاج"
+  },
+  "services": {
+    "firstAid": "الإسعافات الأولية",
+    "medicalCare": "الرعاية الطبية",
+    "laboratory": "المختبر",
+    "pharmacy": "الصيدلية",
+    "emergency": "الطوارئ",
+    "records": "السجلات الطبية"
+  },
+  "timeAgo": {
+    "minutes": "منذ {{count}} دقائق",
+    "hours": "منذ {{count}} ساعات",
+    "days": "منذ {{count}} أيام"
+  },
+  "status": {
+    "completed": "مكتمل",
+    "inProgress": "قيد التنفيذ",
+    "pending": "قيد الانتظار",
+    "closed": "مغلق"
+  },
+  "months": {
+    "january": "يناير",
+    "february": "فبراير",
+    "march": "مارس",
+    "april": "أبريل",
+    "may": "مايو",
+    "june": "يونيو"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "view": "عرض",
+    "download": "تحميل",
+    "search": "بحث",
+    "add": "إضافة",
+    "status": {
+      "active": "نشط",
+      "inactive": "غير نشط",
+      "pending": "قيد الانتظار",
+      "completed": "مكتمل",
+      "inProgress": "قيد التنفيذ"
+    }
+  }
+}

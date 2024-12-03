@@ -1,0 +1,81 @@
+{
+  "company": "Shibh Al Jazira Contracting Company",
+  "system": "Sistema ng Pamamahala ng Klinika",
+  "nav": {
+    "home": "Home",
+    "patients": "Mga Pasyente",
+    "records": "Mga Medikal na Rekord",
+    "locations": "Mga Lokasyon",
+    "safety": "Kaligtasan",
+    "emergency": "Pagtugon sa Emergency",
+    "pharmacy": "Imbentaryo ng Gamot",
+    "laboratory": "Laboratoryo",
+    "radiology": "Radyolohiya",
+    "insurance": "Medikal na Insurance",
+    "compliance": "Pagsunod ng Klinika",
+    "requests": "Mga Kahilingan ng Klinika",
+    "reports": "Mga Ulat",
+    "settings": "Mga Setting"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Pangkalahatang-ideya ng pagganap ng klinika at mga pangunahing indicator",
+    "downloadReport": "I-download ang Ulat",
+    "stats": {
+      "totalExams": "Kabuuang Eksaminasyon",
+      "activePatients": "Aktibong Pasyente",
+      "emergencyCases": "Mga Emergency na Kaso",
+      "activeLocations": "Aktibong Lokasyon"
+    },
+    "charts": {
+      "clinicPerformance": "Pagganap ng Klinika",
+      "examDistribution": "Distribusyon ng Eksaminasyon",
+      "examinations": "Mga Eksaminasyon",
+      "incidents": "Mga Insidente"
+    },
+    "activities": {
+      "title": "Mga Kamakailang Aktibidad",
+      "type": "Uri",
+      "patient": "Pasyente",
+      "location": "Lokasyon",
+      "date": "Petsa",
+      "status": "Katayuan"
+    },
+    "notifications": {
+      "title": "Mga Abiso",
+      "lowInventory": "Mababang suplay ng gamot sa klinika ng Riyadh",
+      "completedExams": "Nakumpleto ang lingguhang pana-panahong eksaminasyon",
+      "upcomingInspection": "Naka-iskedyul ang inspeksyon ng MOH sa susunod na linggo"
+    }
+  },
+  "safety": {
+    "title": "Kaligtasan sa Trabaho",
+    "subtitle": "Subaybayan at pamahalaan ang mga kaso ng kaligtasan sa trabaho ayon sa mga kinakailangan ng MOT, MOMRA, at NEOM project",
+    "add": "Magdagdag ng Kaso ng Kaligtasan",
+    "date": "Petsa",
+    "location": "Lokasyon",
+    "type": "Uri",
+    "severity": "Kalubhaan",
+    "status": "Katayuan",
+    "description": "Paglalarawan",
+    "activeIncidents": "Aktibong Insidente",
+    "inProgress": "Kasalukuyang Ginagawa",
+    "closed": "Nakasara"
+  },
+  "common": {
+    "save": "I-save",
+    "cancel": "Kanselahin",
+    "delete": "Tanggalin",
+    "edit": "I-edit",
+    "view": "Tingnan",
+    "download": "I-download",
+    "search": "Maghanap",
+    "status": {
+      "active": "Aktibo",
+      "inactive": "Hindi Aktibo",
+      "pending": "Nakabinbin",
+      "completed": "Nakumpleto",
+      "inProgress": "Kasalukuyang Ginagawa"
+    }
+  }
+}
